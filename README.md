@@ -1,9 +1,9 @@
 # Salient-Object-Segmentation-via-Effective-Integration-of-Saliency-and-Objectness
 
-1 This code is for the paper: L. Ye, Z. Liu, L. Li, L. Shen, C. Bai, and Y. Wang, 
+1. This code is for the paper: L. Ye, Z. Liu, L. Li, L. Shen, C. Bai, and Y. Wang, 
 IEEE Transactions on Multimedia, doi: 10.1109/TMM.2017.2693022, Apr. 2017. 
 
-2 Some codes are borrowed from: 
+2. Some codes are borrowed from: 
 [1] W. Zhu, S. Liang, Y. Wei, and J. Sun, “Saliency optimization from robust 792
 background detection,” in Proc. IEEE Comput. Soc. Conf. Comput. Vis. 793
 Pattern Recog., Jun. 2014, pp. 2814–2821.
